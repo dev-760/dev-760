@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hey, I'm Hassan Karasu
 
-<!--
-**dev-760/dev-760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 Filmmaker. 👨‍💻 Tech Enthusiast. 🚀 Future Innovator.
 
-Here are some ideas to get you started:
+I'm a high school graduate with a passion for **film**, **technology**, and **social impact**. I’ve explored cybersecurity and AI through self-driven learning. I'm building toward a future where art and technology intersect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Certifications
+
+- 🧠 **AI & Cybersecurity**:
+  - IBM Artificial Intelligence Fundamentals
+  - Udacity Nanodegree: Foundations of Ethical Hacking
+
+---
+
+## 🛠️ Skills
+
+**Technical**:  
+`Cybersecurity` • `Artificial Intelligence` • `Python`
+
+**Soft Skills**:  
+`Leadership` • `Teamwork` • `Public Speaking` • `Creative Writing` • `Cinematography`
+
+**Languages**:  
+🇲🇦 Arabic (native) • 🇬🇧 English (advanced)
+
+---
+
+## 🧪 Terminal Hacker Vibes
+
+┌─[hassan@github]─[~/projects]
+└──╼ $ echo "Hello, world!"
+Hello, world!
+
+┌────────────────────────────────────────────┐
+│    Building at the intersection of film    │
+│         storytelling & technology          │
+└────────────────────────────────────────────┘
+
+---
+
+## 📫 Let's Connect
+
+📧 [dev760@outlook.com](mailto:dev760@outlook.com)
+
+---
+
+> “Creativity is intelligence having fun.” – *Albert Einstein*
