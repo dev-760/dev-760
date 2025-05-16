@@ -29,7 +29,8 @@ I'm a high school graduate with a passion for **film**, **technology**, and **so
 
 ## 🧪 Terminal Hacker Vibes
 
-┌─[hassan@github]─[~/projects]
+
+┌─[dev-760@github]─[~/projects]
 └──╼ $ echo "Hello, world!"
 Hello, world!
 
@@ -37,6 +38,7 @@ Hello, world!
 │    Building at the intersection of film    │
 │         storytelling & technology          │
 └────────────────────────────────────────────┘
+
 
 ---
 
