@@ -27,22 +27,6 @@ I'm a high school graduate with a passion for **film**, **technology**, and **so
 
 ---
 
-## 🧪 Terminal Hacker Vibes
-
-
-┌─[dev-760@github]─[~/projects]
-└──╼ $ echo "Hello, world!"
-
->>> Hello, world!
-
-┌────────────────────────────────────────────┐
-│ Building at the intersection of film       │
-│ storytelling & technology                  │
-└────────────────────────────────────────────┘
-
-
----
-
 ## 📫 Let's Connect
 
 📧 [dev760@outlook.com](mailto:dev760@outlook.com)
