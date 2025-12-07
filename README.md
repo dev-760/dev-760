@@ -35,5 +35,5 @@ Casablanca, Morocco
 ---
 
 ## Let’s Connect  
-**LinkedIn:** https://www.linkedin.com/in/hassan-karasu-a7485336b/  
-**Email:** dev760@outlook.com
+**LinkedIn:** [Hassan Karasu](https://www.linkedin.com/in/hassan-karasu-a7485336b/)  
+**Email:** [dev760](mailto:dev760@outlook.com)
