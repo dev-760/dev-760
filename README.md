@@ -1,36 +1,39 @@
-# 👋 Hey, I'm Hassan Karasu
+# Hey, I'm **Hassan Karasu**
 
-🎬 Filmmaker. 👨‍💻 Tech Enthusiast. 🚀 Future Innovator.
-
-I'm a high school graduate with a passion for **film**, **technology**, and **social impact**. I’ve explored cybersecurity and AI through self-driven learning. I'm building toward a future where art and technology intersect.
+Aspiring **Mechatronics Engineer** with a passion for **robotics**, **drones**, and intelligent systems. I enjoy building devices that combine mechanics, electronics, and smart control. My experience includes hands-on robotics projects, drone challenges, and engineering workshops that strengthened my technical problem-solving and teamwork.
 
 ---
 
-## 📌 Certifications
+## Competitions
 
-- 🧠 **AI & Cybersecurity**:
-  - IBM Artificial Intelligence Fundamentals
-  - Udacity Nanodegree: Foundations of Ethical Hacking
-
----
-
-## 🛠️ Skills
-
-**Technical**:  
-`Cybersecurity` • `Artificial Intelligence` • `Python`
-
-**Soft Skills**:  
-`Leadership` • `Teamwork` • `Public Speaking` • `Creative Writing` • `Cinematography`
-
-**Languages**:  
-🇲🇦 Arabic (native) • 🇬🇧 English (advanced)
+- **Oman Robotics Olympiad 2021–2022 – Final Round**  
+- **Robotics & Artificial Intelligence Competition 2021–2022 – Final Round**  
+- **Oman Science Festival – Drone Competitions (3rd Edition), 2022**
 
 ---
 
-## 📫 Let's Connect
+## Skills
 
-📧 [dev760@outlook.com](mailto:dev760@outlook.com)
+**Robotics & Engineering**  
+`Drone Navigation & Control` • `Mechanical Design` • `Electrical Assembly` • `Troubleshooting` • `Real-Time Problem Solving`
+
+**Technical Tools**  
+`Python Programming` • `CAD / 3D Design` • `Equipment Setup & Configuration`
+
+**Project & Team Skills**  
+`Project Planning` • `Team Collaboration` • `Communication` • `Workshop Facilitation`
+
+**Languages**  
+Arabic – Native  
+English – Full Professional
 
 ---
 
-> “Creativity is intelligence having fun.” – *Albert Einstein*
+## Currently Based In  
+Casablanca, Morocco
+
+---
+
+## Let’s Connect  
+**LinkedIn:** https://www.linkedin.com/in/hassan-karasu-a7485336b/  
+**Email:** dev760@outlook.com
