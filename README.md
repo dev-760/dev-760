@@ -1,6 +1,6 @@
 # Hey, I'm Hassan Karasu
 
-Aspiring **Cyber Security Specialist** with a focus on **Blue Team** and **Red Team Operations**. I build hands-on experience by analyzing security incidents, detecting threats, and studying attacker techniques within real-world–inspired environments.
+Aspiring **Cybersecurity Engineer** with a focus on **Blue Team** and **Red Team Operations**. I build hands-on experience by analyzing security incidents, detecting threats, and studying attacker techniques within real-world–inspired environments.
 
 I’m particularly interested in understanding how attacks work end-to-end and how effective defensive strategies can be designed, improved, and validated through continuous practice.
 
