@@ -1,39 +1,62 @@
-# Hey, I'm **Hassan Karasu**
+# Hey, I'm Hassan Karasu
 
-Aspiring **Mechatronics Engineer** with a passion for **robotics**, **drones**, and intelligent systems. I enjoy building devices that combine mechanics, electronics, and smart control. My experience includes hands-on robotics projects, drone challenges, and engineering workshops that strengthened my technical problem-solving and teamwork.
+Aspiring **Cyber Security Specialist** with a focus on **Blue Team** and **Red Team Operations**. I build hands-on experience by analyzing security incidents, detecting threats, and studying attacker techniques within real-world–inspired environments.
 
----
-
-## Competitions
-
-- **Oman Robotics Olympiad 2021–2022 – Final Round**  
-- **Robotics & Artificial Intelligence Competition 2021–2022 – Final Round**  
-- **Oman Science Festival – Drone Competitions (3rd Edition), 2022**
+I’m particularly interested in understanding how attacks work end-to-end and how effective defensive strategies can be designed, improved, and validated through continuous practice.
 
 ---
 
-## Skills
+## Cyber Security Experience & Learning
 
-**Robotics & Engineering**  
-`Drone Navigation & Control` • `Mechanical Design` • `Electrical Assembly` • `Troubleshooting` • `Real-Time Problem Solving`
-
-**Technical Tools**  
-`Python Programming` • `CAD / 3D Design` • `Equipment Setup & Configuration`
-
-**Project & Team Skills**  
-`Project Planning` • `Team Collaboration` • `Communication` • `Workshop Facilitation`
-
-**Languages**  
-Arabic – Native  
-English – Full Professional
+- Hands-on practice in **Blue Team scenarios** (alert analysis, true/false positives, incident handling)
+- Practical exposure to **Red Team Operations fundamentals** and adversary techniques
+- Earned foundational and blue team milestones through labs and simulations
 
 ---
 
-## Currently Based In  
-Casablanca, Morocco
+## Certifications & Training
+
+- **HTB Certified Penetration Testing Specialist (CPTS)**
+- **HTB Certified Defensive Security Analyst (CDSA)**
+---
+
+## Technical Skills
+
+### Security Domains
+- Defensive Security (Blue Team)
+- SOC Fundamentals
+- Incident Response
+- Threat Detection
+- Vulnerability Analysis
+- Red Team Operations
+
+### Tools & Technologies
+- Linux
+- Networking Fundamentals
+- SIEM Basics
+- Log Analysis
+- Python (automation & scripting)
+
+### Core Skills
+- Analytical Thinking
+- Problem Solving
+- Attention to Detail
+- Documentation
+- Continuous Learning
 
 ---
 
-## Let’s Connect  
-**LinkedIn:** [Hassan Karasu](https://www.linkedin.com/in/hassan-karasu-a7485336b/)  
-**Email:** [dev760](mailto:dev760@outlook.com)
+## Languages
+- Arabic — Native  
+- English — Full Professional
+
+---
+
+## Currently Based In
+**Casablanca, Morocco**
+
+---
+
+## Let’s Connect
+- **LinkedIn:** https://www.linkedin.com/in/hassan-karasu-a7485336b/
+- **Email:** dev760@outlook.com
