@@ -14,12 +14,6 @@ I’m particularly interested in understanding how attacks work end-to-end and h
 
 ---
 
-## Certifications & Training
-
-- **HTB Certified Penetration Testing Specialist (CPTS)**
-- **HTB Certified Defensive Security Analyst (CDSA)**
----
-
 ## Technical Skills
 
 ### Security Domains
@@ -52,11 +46,5 @@ I’m particularly interested in understanding how attacks work end-to-end and h
 
 ---
 
-## Currently Based In
+## Based In
 **Casablanca, Morocco**
-
----
-
-## Let’s Connect
-- **LinkedIn:** https://www.linkedin.com/in/hassan-karasu-a7485336b/
-- **Email:** dev760@outlook.com
