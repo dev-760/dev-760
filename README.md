@@ -1,50 +1,55 @@
 # Hey, I'm Hassan Karasu
 
-Aspiring **Cybersecurity Engineer** with a focus on **Blue Team** and **Red Team Operations**. I build hands-on experience by analyzing security incidents, detecting threats, and studying attacker techniques within real-world–inspired environments.
+Driven by one question: **how does intelligence actually work?**
 
-I’m particularly interested in understanding how attacks work end-to-end and how effective defensive strategies can be designed, improved, and validated through continuous practice.
+That question has taken me into **artificial intelligence**, **cognitive science**,
+and **psychology** — the study of how minds perceive, process, and make meaning,
+and what it reveals when we try to build systems that do the same.
+
+I'm particularly drawn to where **human and artificial cognition overlap and
+diverge** — because I think that boundary is where the most interesting
+questions live.
 
 ---
 
-## Cyber Security Experience & Learning
+## What I'm Exploring
 
-- Hands-on practice in **Blue Team scenarios** (alert analysis, true/false positives, incident handling)
-- Practical exposure to **Red Team Operations fundamentals** and adversary techniques
-- Earned foundational and blue team milestones through labs and simulations
+- How AI models perceive and process information
+- Where human cognition and artificial intelligence converge and differ
+- The philosophy and ethics of building intelligent systems
+- Autonomous systems and how intelligence can be embedded in machines
+
+---
+
+## Background
+
+-  National-level competitor in **Robotics & AI** — designed autonomous
+  systems under pressure and across disciplines
+-  Reader across psychology, philosophy, and literature
 
 ---
 
 ## Technical Skills
 
-### Security Domains
-- Defensive Security (Blue Team)
-- SOC Fundamentals
-- Incident Response
-- Threat Detection
-- Vulnerability Analysis
-- Red Team Operations
+### AI & Cognitive Systems
+- Machine Learning Fundamentals
+- Autonomous Systems & Robotics
+- Drone Systems
+- Python
 
-### Tools & Technologies
-- Linux
-- Networking Fundamentals
-- SIEM Basics
-- Log Analysis
-- Python (automation & scripting)
-
-### Core Skills
-- Analytical Thinking
-- Problem Solving
+### Foundations
+- Research & Analytical Thinking
+- Critical Problem Solving
 - Attention to Detail
-- Documentation
-- Continuous Learning
+
+### Communication
+- Bilingual — Arabic (Native) · English (Full Professional)
+- Intercultural Communication
 
 ---
 
-## Languages
-- Arabic — Native  
-- English — Full Professional
+## Currently
 
----
-
-## Based In
-**Casablanca, Morocco**
+- 📍 Casablanca, Morocco
+- 🎓 Pre-university
+- 🌐 [hassankarasu.dev](https://hassankarasu.dev)
