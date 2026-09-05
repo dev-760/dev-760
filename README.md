@@ -25,8 +25,6 @@ efficient.
 
 - Studying **Business Administration** (Licence)
 - Building independent software projects from problem to working solution
-- Background in robotics & AI competition — designed autonomous systems
-  under pressure and across disciplines
 - Reader across psychology, philosophy, and literature
 
 ---
