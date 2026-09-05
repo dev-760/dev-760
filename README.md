@@ -73,7 +73,3 @@ efficient.
 - 📍 Casablanca, Morocco
 - 🎓 Business Administration Student
 - 🌐 [hassankarasu.dev](https://hassankarasu.dev)
-
----
-
-<summary>✨</summary>
